@@ -1,0 +1,5 @@
+Login: q55r879        			Name: ezra.skoog
+Directory: /home/q55r879            	Shell: /bin/bash
+Last login Wed Nov  4 19:00 (MST) on pts/54 from 10.152.229.171
+No mail.
+No Plan.
